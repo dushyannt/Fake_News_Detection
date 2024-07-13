@@ -1,5 +1,4 @@
 # Fake_News_Detection
-# Fake News Detection
 
 ## Table of Contents
 - [Abstract](#abstract)
